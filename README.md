@@ -2,9 +2,7 @@
 
 sway-interactive-screenshot is as simple bash script to take screenshot with ease on sway. Just launch the script and it will ask you what you want to take a screenshot.
 
-**
-This is a fork of [sway-interactive-screenshot](https://github.com/moverest/sway-interactive-screenshot) that simply places `HEAD` before the [Switch to Fuzzel](https://github.com/moverest/sway-interactive-screenshot/commit/c799936eb20b2a222690b7e5d999b3f28bdd94a9) commit. A commit which resulted in a switch away from Rofi to a picker with very limited themeing functionality. The reasoning was Rofi's poor Wayland support, which is in a way entirely valid were it not for [lbonn's rofi for wayland](https://github.com/lbonn/rofi).
-**
+**This is a fork of [sway-interactive-screenshot](https://github.com/moverest/sway-interactive-screenshot) that simply places `HEAD` before the [Switch to Fuzzel](https://github.com/moverest/sway-interactive-screenshot/commit/c799936eb20b2a222690b7e5d999b3f28bdd94a9) commit. A commit which resulted in a switch away from Rofi to a picker with very limited theming functionality. The reasoning was Rofi's poor Wayland support, which is in a way entirely valid were it not for [lbonn's rofi for wayland](https://github.com/lbonn/rofi).**
 
 ## Install
 
