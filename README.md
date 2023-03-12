@@ -6,7 +6,7 @@ sway-rofi-screenshot is as simple bash script to take screenshot with ease on sw
 
 ## Install
 
-If you are using Archlinux, you can install sway-rofi-screenshot with the AUR package [`sway-rofi-screenshot`](https://aur.archlinux.org/packages/sway-rofi-screenshot) (e.g. `yay -S sway-rofi-screenshot`).
+If you are using Archlinux, you can install sway-rofi-screenshot with the AUR package [`sway-rofi-screenshot-git`](https://aur.archlinux.org/packages/sway-rofi-screenshot-git) (e.g. `yay -S sway-rofi-screenshot-git`).
 
 ## Dependencies
 
